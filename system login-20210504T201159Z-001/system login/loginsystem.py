@@ -1,3 +1,6 @@
+# the login system
+# go to the jupyter notebook file to see which part is doing which work
+
 global dict_user = []
 
 def input_password():
